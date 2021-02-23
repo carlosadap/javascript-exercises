@@ -1,10 +1,14 @@
 These are a series of JavaScript exercises intended to be used alongside the curriculum at 'The Odin Project'. They start simple and easy but get more complex and involved as you progress through them.
 
-There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified. However, there are a few exercises that make a good "starting point". Feel free to at least start with these:
+There will eventually be a suggested order of completion, but at this time since we are still in the process of creating more exercises the order is subject to change and has not yet been specified. However, there are a few exercises that make a good "starting point". Order that I followed:
 
 1. Hello World
 2. Repeat String
 3. Reverse String
+4. removeFromArray
+5. sumAll
+6. leapYears
+7. tempConversion
 
 ## How To Use These Exercises
 Before you start you should have a few things installed on your machine:
@@ -19,6 +23,10 @@ The first exercise, `helloWorld`, will walk you through the process in-depth.
 ## Solutions
 
 Solutions for these exercises can be found in this repo on the 'solutions' branch.
+
+## My solutions
+
+The soutions that I created can be found on this repo on the 'my_solutions' branch.
 
 ## A quick note!
 
